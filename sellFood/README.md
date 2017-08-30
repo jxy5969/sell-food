@@ -39,7 +39,7 @@
 
 ![food.gif](https://github.com/jxy5969/sell-food/blob/master/sellFood/screenShots/food.gif)
 
-* 页
+* 商家页
 
 ![seller.gif](https://github.com/jxy5969/sell-food/blob/master/sellFood/screenShots/seller.gif)
 
