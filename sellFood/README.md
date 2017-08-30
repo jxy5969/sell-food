@@ -15,8 +15,8 @@
 
 
 
-### 项目技术架构
 ***
+### 项目技术架构
 *  vue-cli
 *  vue2
 *  vue-resource //因为上线项目使用了本地的data数据，使用vue-resource会导致无法接受到数据，故没用用到vue-resource
@@ -25,8 +25,8 @@
 *  stylus
 *  webpack
 
-###效果演示
 ***
+###效果演示
 * 商品页
 
 ![goods.gif](https://github.com/jxy5969/sell-food/blob/master/sellFood/screenShots/goods.gif)
@@ -43,8 +43,9 @@
 
 ![seller.gif](https://github.com/jxy5969/sell-food/blob/master/sellFood/screenShots/seller.gif)
 
-###安装
+
 ***
+###安装
 项目地址：（`git clone`）
 ```shell
 git clone https://github.com/jxy5969/sell-food.git
@@ -65,8 +66,9 @@ npm run dev
 npm run build
 
 ```
-###目录结构
+
 ***
+###目录结构
 <pre>
 ├── build              // 构建服务和webpack配置
 ├── config             // 项目不同环境的配置
@@ -80,8 +82,9 @@ npm run build
 │   └── main.js        // Webpack 预编译入口
 </pre>
 
-###实现的功能
+
 ***
+###实现的功能
 * 商品滚动 ，商品滚轮滚动
 * 商品联动
 * 加入购物车，移除购物车
@@ -90,8 +93,9 @@ npm run build
 * 商品详情  父子组件的通信
 * 等等
 
-### 正在实现的功能
+
 ***
+### 正在实现的功能
 * vuex
 * 购物车结算组件
 *  顶部下拉刷新
