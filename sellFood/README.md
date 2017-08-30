@@ -26,7 +26,7 @@
 *  webpack
 
 ***
-###效果演示
+### 效果演示
 * 商品页
 
 ![goods.gif](https://github.com/jxy5969/sell-food/blob/master/sellFood/screenShots/goods.gif)
@@ -45,7 +45,7 @@
 
 
 ***
-###安装
+### 安装
 项目地址：（`git clone`）
 ```shell
 git clone https://github.com/jxy5969/sell-food.git
@@ -68,7 +68,7 @@ npm run build
 ```
 
 ***
-###目录结构
+### 目录结构
 <pre>
 ├── build              // 构建服务和webpack配置
 ├── config             // 项目不同环境的配置
@@ -84,7 +84,7 @@ npm run build
 
 
 ***
-###实现的功能
+### 实现的功能
 * 商品滚动 ，商品滚轮滚动
 * 商品联动
 * 加入购物车，移除购物车
